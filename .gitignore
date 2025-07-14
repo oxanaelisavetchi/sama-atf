@@ -1,0 +1,7 @@
+
+**/target/*
+**/.idea/*
+**.iml
+**/src/test/resources/data.properties
+/reportportal.lock
+/reportportal.sync
